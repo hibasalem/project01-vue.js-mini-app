@@ -1,4 +1,4 @@
-# project01-vue.js-mini-app
+# project02-vue.js-mini-app
 
 apractice project for basic features of vue.js
 
